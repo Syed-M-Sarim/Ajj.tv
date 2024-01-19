@@ -1,0 +1,84 @@
+#heading{
+    color: orange;
+}
+h6{
+    font-size: large;
+    text-align: left;
+}
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cap{
+    text-align: center;
+}
+.span{
+    margin-right: 100px; 
+}
+.bold{
+    font-size: 30px;
+    margin-right: 500px;
+}
+#nav{
+    border: 5px solid black;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+#top{
+    background-color: black;
+    color: whitesmoke;
+    font-size: xx-large;
+}
+h6 > span{
+    font-size: small;
+    color: aqua;
+}
+h6{
+    color: black;
+}
+#main{
+    font-weight: bolder;
+    color: black;
+}
+.details{
+    color: grey;
+    font-size: large;
+}
+.images{
+    width: 100px;
+    height: 100px;
+}
+#image{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+}
+#caption{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+ol{
+    border: 2px solid orange;
+    color: black;
+    list-style-type: decimal;
+    font-weight: bold;
+    font-size: large;
+}
+.recom{
+    color: black;
+    font-weight: bold;
+}
+#end{
+    font-weight: lighter;
+    color: black;
+    text-align: center;
+}
+.social{
+    width: 30px;
+    height: 30px;
+}
